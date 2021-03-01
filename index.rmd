@@ -4,3 +4,7 @@ output: html_document
 ---
 
 Hello
+
+The modules I've gotten through:
+
+* [session_3.1](session_3.1.html)
